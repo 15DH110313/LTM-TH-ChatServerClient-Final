@@ -1,0 +1,18 @@
+D:\vivi\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\vivi\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\vivi\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.Form1.resources
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\vivi\Lab05\Lab05\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\vivi\Lab05\Lab05\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\obj\Debug\Lab05.exe
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\obj\Debug\Lab05.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\bin\Debug\Lab05.exe
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\bin\Debug\Lab05.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\obj\Debug\Lab05.Form1.resources
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\NetworkProgramming-Lab05-master\Lab05\obj\Debug\Client.csproj.GenerateResource.Cache
